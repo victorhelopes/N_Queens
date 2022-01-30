@@ -1,0 +1,10 @@
+Representação tabuleiro
+[[0*n_Rainhas]*n_Rainhas]
+
+Representação numerica
+# 0 -> Espaço sem rainha
+# 1 -> Espaço ocupado por uma rainha
+
+
+Funções
+#Valida() -> executa uma validação do novo tabuleiro, verificando se há alguma sendo atacada
